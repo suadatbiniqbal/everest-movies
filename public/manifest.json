@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Everest Movies",
+  "name": "Everest Movies - Free HD Streaming",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,7 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#E50914",
+  "background_color": "#141414",
+  "description": "Watch free HD movies and TV series online"
 }
