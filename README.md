@@ -108,9 +108,3 @@
 </tr>
 </table>
 
----
-
-## ⚙️ Installation & Setup
-
-### Prerequisites
-
